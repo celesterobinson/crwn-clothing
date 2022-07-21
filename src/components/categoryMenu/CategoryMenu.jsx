@@ -1,5 +1,5 @@
 import React from 'react';
-import CategoryItem from '../category-item/CategoryItem';
+import CategoryItem from '../categoryItem/CategoryItem';
 import './categoryMenu.scss';
 const CategoryMenu = () => {
   const categories = [
